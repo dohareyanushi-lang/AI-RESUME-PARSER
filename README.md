@@ -19,6 +19,9 @@ A Resume Parser built using Python and Streamlit that extracts candidate informa
 - pdfplumber
 - OpenPyXL
 
+- ## Live Demo
+https://ai-resume-parser-i5ch7pk3sj9sov9wmpxvjy.streamlit.app/
+
 ## How to Run
 
 ```bash
